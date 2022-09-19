@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Nuxt.js**
 
-- 🤝 I’m looking for help with [Palestine](https://www.palgov.ps/en)
-
-- 👨‍💻 All of my projects are available at [t.me/alisherdev_portfolio](t.me/alisherdev_portfolio)
+- 👨‍💻 All of my projects are available at [t.me/alisherdev_portfolio](alisherdev_portfolio.t.me)
 
 - 📝 I regularly write articles on [t.me/alisherdotdev](t.me/alisherdotdev)
 
