@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisher Usmonov</h1>
 <h3 align="center">A Full Stack JavaScript developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://twitter.com/alisher_buxoriy" target="blank"><img src="https://img.shields.io/twitter/follow/alisherdotdev?logo=twitter&style=for-the-badge" alt="alisherdotdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alisher_buxoriy" target="blank"><img src="https://img.shields.io/twitter/follow/alisher_buxoriy?logo=twitter&style=for-the-badge" alt="alisher_buxoriy" /></a> </p>
 
 - 🔭 I’m currently working on [Wasaf Int Solutions](https://wasaf.uz)
 
